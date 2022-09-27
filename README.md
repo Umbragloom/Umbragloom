@@ -20,22 +20,23 @@ I am a 30 something "Millennial" who enjoys very eclectic things. Some of my hob
 4. Working on possibly hosting a few programming projects here once I get a chance to work on them.
 
 # My Git Hub Stats:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Umbragloom&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Umbragloom&show_icons=true&bg_color=000b1e&title_color=00ff00&icon_color=0abdc6&text_color=bd00ff&border_color=00ff00&h&border_radius=20&include_all_commits=true) <img src="https://media.giphy.com/media/YrTXcn2uKFbJvVvJgY/giphy.gif" width="200" height="200" align="left">
 
 # My Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://media.giphy.com/media/1DKVMPqxI3CO1VZmX1/giphy.gif" width="100" height="100"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&bg_color=000b1e&title_color=00ff00&icon_color=0abdc6&text_color=bd00ff&border_color=00ff00&h&border_radius=20&include_all_commits=true&hide=javascript&card_width=500)](https://github.com/anuraghazra/github-readme-stats) <img src="https://media.giphy.com/media/1DKVMPqxI3CO1VZmX1/giphy.gif" width="200" height="200" align="left"/>
+<br>
 
 # My Two most active Repos:
 <a href="https://github.com/Mathie-Josh/Arch_laptop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Umbragloom&repo=Arch_laptop&theme=tokyonight&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Umbragloom&repo=Arch_laptop&show_icons=true&bg_color=000b1e&title_color=00ff00&icon_color=0abdc6&text_color=bd00ff&border_color=00ff00&h&border_radius=20&show_owner=true" />
 </a>
 <a href="https://github.com/Mathie-Josh/website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Umbragloom&repo=website&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Umbragloom&repo=website&show_icons=true&bg_color=000b1e&title_color=00ff00&icon_color=0abdc6&text_color=bd00ff&border_color=00ff00&h&border_radius=20&show_owner=true" />
 </a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Umbragloom&bg_color=000b1e&color=0abdc6&line=0abdc6&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# Git Commit Graph: 
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Umbragloom&bg_color=000b1e&color=00ff00&line=d300c4&point=0abdc6&title_color=00ff00&area=true&area_color=00ff00&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ### 👨‍💻 Programming and markup languages:
