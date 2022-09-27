@@ -35,7 +35,7 @@ I am a 30 something "Millennial" who enjoys very eclectic things. Some of my hob
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Umbragloom&repo=website&theme=tokyonight" />
 </a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Umbragloom&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Umbragloom&bg_color=000b1e&color=0abdc6&line=0abdc6&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ### 👨‍💻 Programming and markup languages:
