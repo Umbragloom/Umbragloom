@@ -23,10 +23,16 @@ I am a 30 something "Millennial" who enjoys very eclectic things. Some of my hob
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Umbragloom&show_icons=true&bg_color=000b1e&title_color=00ff00&icon_color=0abdc6&text_color=bd00ff&border_color=00ff00&h&border_radius=20&include_all_commits=true) <img src="https://media.giphy.com/media/YrTXcn2uKFbJvVvJgY/giphy.gif" width="200" height="200" align="left">
 
 # My Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&bg_color=000b1e&title_color=00ff00&icon_color=0abdc6&text_color=bd00ff&border_color=00ff00&h&border_radius=20&include_all_commits=true&hide=javascript&card_width=500)](https://github.com/anuraghazra/github-readme-stats) <img src="https://media.giphy.com/media/1DKVMPqxI3CO1VZmX1/giphy.gif" width="200" height="200" align="left"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&bg_color=000b1e&title_color=00ff00&icon_color=0abdc6&text_color=bd00ff&border_color=00ff00&h&border_radius=20&include_all_commits=true&hide=javascript&card_width=500)](https://github.com/anuraghazra/github-readme-stats) 
+
+<img src="https://media.giphy.com/media/1DKVMPqxI3CO1VZmX1/giphy.gif" width="200" height="200" align="center"/>
+
 <br>
 
 # My Two most active Repos:
+
+<br>
+
 <a href="https://github.com/Mathie-Josh/Arch_laptop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Umbragloom&repo=Arch_laptop&show_icons=true&bg_color=000b1e&title_color=00ff00&icon_color=0abdc6&text_color=bd00ff&border_color=00ff00&h&border_radius=20&show_owner=true" />
 </a>
