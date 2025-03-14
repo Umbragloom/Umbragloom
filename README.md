@@ -43,7 +43,6 @@ I am a 30 something "Millennial" who enjoys very eclectic things. Some of my hob
 # Git Commit Graph: 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Umbragloom&bg_color=000b1e&color=00ff00&line=d300c4&point=0abdc6&title_color=00ff00&area=true&area_color=00ff00&hide_border=false&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Umbragloom&bg_color=000b1e&color=00ff00&line=d300c4&point=0abdc6&title_color=00ff00&area=true&area_color=00ff00&hide_border=false&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ### 👨‍💻 Programming and markup languages:
